@@ -37,4 +37,4 @@ Putting all of these together = Full understanding of how **user experience** ca
 
 As a part of my previously mentioned club’s task, I am reviewing a book called *“Restoring UI”*, and reading this blog really connected the dots for me. It made me realise how design isn’t just **‘guesswork’** or making things look nice, it’s actually about **observing real users, gathering data, drawing insights from it, and then refining it based on users’ behaviour**.  
 
-Putting both the book’s practical tips and this blog’s insights together, taught me how to make decisions that actually help users… and maybe even save me from endless *“does this look right?”* panic spirals! 😅
+Putting both the book’s practical tips and this blog’s insights together, taught me how to make decisions that actually help users… and maybe even save me from endless *“does this look right?”* panic spirals! 
