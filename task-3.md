@@ -1,6 +1,6 @@
 
 # Mastering Git and GitHub: A Step-by-Step Guide for Beginners  
-(link for google docs: [text](https://docs.google.com/document/d/1fIOPxG2oayxLDc2CusvOJ2YGP7R6LkLvmVnpPVi2Xno/edit?usp=sharing))
+(link for google docs: [Docs](https://docs.google.com/document/d/1fIOPxG2oayxLDc2CusvOJ2YGP7R6LkLvmVnpPVi2Xno/edit?usp=sharing))
 
 Git and GitHub are two tools that almost everyone in **coding** and **research** has to come across at some point.  
 The blog I’m reviewing does a solid job of explaining these basics in a *beginner-friendly* way.  
