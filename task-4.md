@@ -4,7 +4,7 @@
 
 Being selected as a **UI/UX Design Mentee** in a college club recently, and with my growing interest in research, I stumbled upon a blog that couldn’t have been more perfect! This blog combines **UX and Research**, explaining how crucial understanding users’ needs, preferences, and pain points is for a business to make an impact.  
 
----
+
 
 ## 🔹 Reality Check
 
@@ -13,13 +13,13 @@ The blog starts off with an obvious reality check:
 
 Reading this made me realise that instead of guessing or relying on my own assumptions, I should gather real data through interviews, surveys, and persona creation to see what people actually want or struggle with. I didn’t realise we were supposed to do all that. Reading it made me appreciate how important surveys and ‘majority’ opinions are.  
 
----
+
 
 ## 🔹 User Observation
 
 The **“User Observation”** part blew my mind. Watching someone interact with a product in their natural environment, noticing **body language, behaviour patterns, and other non-verbal cues** is basically like stalking… but in a good way. It made me think, my font choices, or button placements, and other things I obsess over while making a UI might feel totally different to a real user.  
 
----
+
 
 ## 🔹 Types of Data Collection
 
@@ -31,7 +31,7 @@ This blog also breaks down data collection into various types like:
 
 Putting all of these together = Full understanding of how **user experience** can make or break a product, and how to iterate it and make it better by gathering insights from the data we gathered.  
 
----
+
 
 ## 🔹 Conclusion
 
