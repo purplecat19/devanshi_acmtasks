@@ -1,4 +1,4 @@
-# UX Research Field Study: A Complete Guide [link](https://www.geeksforgeeks.org/blogs/ux-research-field-study/)
+# UX Research Field Study: A Complete Guide [(link)](https://www.geeksforgeeks.org/blogs/ux-research-field-study/)
 
 [Google Docs Link](https://docs.google.com/document/d/1fIOPxG2oayxLDc2CusvOJ2YGP7R6LkLvmVnpPVi2Xno/edit?tab=t.dqrbdtl5kx7i#heading=h.c1oszkv2aoye)
 
