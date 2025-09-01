@@ -14,7 +14,7 @@ The blog starts off by explaining **Git** as a *Version Control System* that hel
 
 I liked how the author described its **distributed** nature, since you can collaborate without being on the same network by *pushing* your code to remote storage in **GitHub**, which is described as a *cloud-based platform* that save and keep projects accessible from anywhere.  
 
-👉 This framing finally helped me see the connection between the two.
+👉 This framing finally helped me see the connection between the two. I've seen Git vs GitHub debates online before, now it finally clicked to me why people confuse them, and how they're literally so different.
 
 
 ## 🔹 First Setup  
@@ -57,4 +57,4 @@ Popular events like Google Summer of Code (GSoC) and Hacktoberfest give learners
 
 ## 🔹 Final Thoughts
 
-Overall, this blog helped me understand Git and GitHub much better and gave me a clearer picture of open source.
+Overall, this blog helped me understand Git and GitHub much better and gave me a clearer picture of open source. It also made me curious to explore open source projects myself, as this blog mentions, it is the next step after learning the basics.
